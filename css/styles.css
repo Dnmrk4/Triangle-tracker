@@ -1,0 +1,41 @@
+/*Student:Danmrk Mutai*/
+/*CSS syle*/
+
+html {
+  background: url(../img/triangle.gif);
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+#most {
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  color: beige;
+}
+#start {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana;
+  font-size: 17px;
+  color: beige;
+}
+.go {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: beige;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 12px;
+}
+button {
+  background-color: aquamarine;
+  padding: 5px 15px;
+  border-radius: 20px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-weight: bold;
+}
+input {
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  padding: 5px 35px;
+}
