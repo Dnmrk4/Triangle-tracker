@@ -39,6 +39,9 @@ input {
   outline: none;
   padding: 5px 35px;
 }
+address {
+  color: beige;
+}
 .not {
   font-weight: bold;
 }
