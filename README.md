@@ -30,6 +30,10 @@ This is a javascript website application that finds the type of triangle you wan
 -  Cascading Stylesheets.
 -  Javascript.
 
+## Contact:
+
+E-mail: danmark.chemuren@gmail.com
+
 ## Live demo:
 
 https://dnmrk4.github.io/Triangle-tracker/
