@@ -43,3 +43,8 @@ input {
   color: rgb(255, 0, 0)
   font-weight: bold;
 }
+@media (min-width: 200px) {
+p {
+  font-size: 17px;
+}
+}
