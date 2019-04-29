@@ -10,16 +10,16 @@ html {
   text-align: center;
   font-family: 'Lobster', cursive;
   font-size: 40px;
-  color: beige;
+  color: #ffffff;
 }
 #start {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana;
   font-size: 17px;
-  color: beige;
+  color: #ffffff;
 }
 .go {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: beige;
+  color: #ffffff;
   font-weight: bold;
   font-style: italic;
   font-size: 12px;
