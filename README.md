@@ -1,6 +1,6 @@
 # TRIANGLE TRACKER
 
-### Author:
+## Author:
 
 Danmark Mutai
 
