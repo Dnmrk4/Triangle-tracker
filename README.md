@@ -6,7 +6,7 @@ Danmark Mutai
 
 ## Description:
 
-This is a javascript website application that finds the type of triangle you want to know by inserting measurements.
+This is a javascript website application that finds the type of triangle you want to know by inserting measurements , then it will bring a result showing you if the triangle is an 'Isosceles'(Two sides are equal), 'Equilateral'(All sides are equal), 'Scalene'(No sides are equal) or it will tell you if your triangle is not a triangle, due to unrealistic value.
 
 ## Setup instructions:
 
